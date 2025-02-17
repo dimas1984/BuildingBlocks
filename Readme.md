@@ -23,9 +23,9 @@ Project sederhana yaitu menggenggam sebuah cube 3D menggunakan building block
 
 5. **Tambahkan Cube 3D** 
 
-![Gambar Ulasan Data](./Img/cameraRig.png)
+![Gambar Ulasan Data](./Img/TmbhCube.png)
 
-6. **Tambahkan Cube 3D**
+6. **Tambahkan Interaction SDK Grab**
 
 ![Gambar Ulasan Data](./Img/addGrabInteraction.png)
 
