@@ -3,7 +3,7 @@
 ## Deskripsi
 Project sederhana yaitu menggenggam sebuah cube 3D menggunakan building block
 
-## Building yang perlu ditambahkan 
+## Langkah-langkah membuat MR sederhana
 
 1. **camera Rig**
 
@@ -21,6 +21,11 @@ Project sederhana yaitu menggenggam sebuah cube 3D menggunakan building block
 
 ![Gambar Ulasan Data](./Img/Virtual%20Hand.png)
 
-## Tambahkan Cube 3D 
+5. **Tambahkan Cube 3D** 
 
+![Gambar Ulasan Data](./Img/cameraRig.png)
+
+6. **Tambahkan Cube 3D**
+
+![Gambar Ulasan Data](./Img/addGrabInteraction.png)
 
